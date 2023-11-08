@@ -1,4 +1,4 @@
-# Wet- en Regelgeving Tedeapolis
+# SubterraNova
 
 Welkom op de pagina voor het project SubterraNova!
 In het menu aan de linkerkant vind je alle verschillende documenten met betrekking tot SubterraNova.
