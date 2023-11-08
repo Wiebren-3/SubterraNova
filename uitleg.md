@@ -6,5 +6,5 @@ Welkom in mijn zelfgemaakte ondergrondse oase, "SubterraNova" Deze prachtige rui
 
 In "SubterraNova" vind je een harmonieuze mix van functionaliteit en comfort. Een elegant bureau is de plek waar ik mijn ideeën tot leven breng en mijn werk tot bloei laat komen. Na een lange dag van inspiratie en productiviteit, kan ik me op een comfortabele mat ontspannen en genieten van rustgevende momenten of een verkwikkende nachtrust. Met voldoende opbergruimte in de kast, kan ik mijn spullen netjes opbergen en mijn ruimte opgeruimd houden. De aanleg van elektriciteit zorgt voor een goed verlichte omgeving en maakt het mogelijk om mijn apparaten op te laden en te gebruiken, waardoor mijn creatieve sessies nog productiever worden. In "SubterraNova" voel ik me geïnspireerd, ontspannen en volledig in mijn element, en ik nodig je graag uit om de magie van deze ruimte te ervaren.
 
-![image](https://github.com/Wiebren-3/SubterraNova/assets/114926599/4fc00680-13a2-444c-91e6-007f169c33e9)
-![image](https://github.com/Wiebren-3/SubterraNova/assets/114926599/eb3cb263-6506-4391-991c-dbce250cc2cf)
+![Buitenkant van structure](img/buitenkant.png)
+![Binnenkant](img/binnenkant.png)
