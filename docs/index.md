@@ -1,13 +1,22 @@
-# SubterraNova
+# Wet- en Regelgeving Tedeapolis
 
-Welkom op de pagina voor het project SubterraNova!
-In het menu aan de linkerkant vind je alle verschillende documenten met betrekking tot SubterraNova.
+Welkom op de pagina voor de Wet- en Regelgeving van Tedeapolis!
+In het menu aan de linkerkant vind je alle verschillende documenten die betrekking hebben op Tedeapolis.
 
-## Links
+Zorg ervoor, dat je voor je deelneemt aan Tedeapolis, kennis hebt genomen van deze wetten.
 
-Wiebren-3 heeft verschillende links die u kunt weergeven voordat u hier kijkt
+- De Algemene Plaatselijke Verordening bevat alle regels die niet te maken hebben met de Roleplay (dit zijn zogezegd de "server regels").
+- Het Wetboek Tedeapolis bevat alle wetten voor de burgers.
+- Alle overige documenten zijn specifiek bedoeld voor bepaalde zaken (zoals een belastingdocument waar je kan opzoeken hoeveel de autobelasting is).
 
-| Naam | Beschrijving | Link |
+## Officiële discord servers
+
+Tedeapolis heeft verschillende discord servers die zijn goed gekeurd door het stadsbestuur deze zijn:
+
+| Server | Beschrijving | Invite link |
 |---|---|:---:|
-|Discord| Discordserver van Wiebren-3 | [Link](https://discord.gg/6bqz5gGQUy) |
-|Linktree| Linktree voor mijn links | [Invite](https://wiebren.space/index) |
+|Tedeapolis RolePlay| Main discord server van Tedeapolis | [Invite](https://discord.gg/tedeapolis) |
+|Tedeapolis Support| Support discord server van Tedeapolis | [Invite](https://discord.gg/uQ9jGA93yC) |
+|Tedeapolis Cardealer| Cardealer discord server van Tedeapolis | [Invite](https://discord.gg/UcCG2kn) |
+|Tedeapolis Flightschool| Vliegschool discord server van Tedeapolis | [Invite](https://discord.gg/JMrvTrZqcz) |
+|Ministerie van Justitie en Veiligheid| Ministerie van Justitie en Veiligheid van Tedeapolis | [Invite](https://discord.gg/KPTt4ce5nw) |
